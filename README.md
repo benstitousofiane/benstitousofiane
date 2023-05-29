@@ -5,8 +5,10 @@
 <br>
 <h2 align="left">Mes compétences</h2>
 - Maths 🔢 : Niveay débutant MPSI, mon parcour mathématique en autodidacte : <a href="https://github.com/benstitousofiane/MAraTHon"> MAraTHon</a>
+
 - Langages de programmation 👨‍💻 : Python 🐍, C 🧓, HTML/CSS 🏄‍♂️, JS 😤
-- Système-réseau : de façon professionnel pour bientôt ! Pour le moment système \*NIX et réseau locale
+
+- Système-réseau : de façon professionnel pour bientôt ! Pour le moment système UNIX et réseau locale
 <br>
 <h2 align="left">Continuiter des projet</h2>
 <br>
