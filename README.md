@@ -5,7 +5,7 @@
 <br>
 <h2 align="left">Mes compétences</h2>
 
-- Maths 🔢 : Niveay débutant MPSI, mon parcour mathématique en autodidacte : <a href="https://github.com/benstitousofiane/MAraTHon"> MAraTHon</a>
+- Maths 🔢 : Niveau débutant MPSI, mon parcour mathématique en autodidacte : <a href="https://github.com/benstitousofiane/MAraTHon"> MAraTHon</a>
 
 - Langages de programmation 👨‍💻 : Python 🐍, C 🧓, HTML/CSS 🏄‍♂️, JS 😤
 
@@ -24,6 +24,6 @@
 - Rendre la majorité de mes sites responsives -> ⚠️ non fait 🔴
 
 <br>
-
-<p align="left">Développer c'est comme jouer avec la logique qu'offre ce monde contemporain</p>
+<p align="left">Faire des projets est me meuilleur des moyen d'améliorer son expérience depuis une petite base de connaissance.</p>
+<p align="left">Développer c'est comme jouer avec la logique qu'offre ce monde contemporain.</p>
 <p align="right"><b>Benstitou Sofiane</b></p>
