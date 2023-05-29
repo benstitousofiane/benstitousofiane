@@ -11,7 +11,7 @@
 
 - Système-réseau : de façon professionnel pour bientôt ! Pour le moment système UNIX et réseau locale
 <br>
-<h2 align="left">Continuiter des projet</h2>
+<h2 align="left">Continuité des projet</h2>
 <br>
 - Portinfo 💻 : mon portilio informatique -> ⚠️ non fait 🔴
 
