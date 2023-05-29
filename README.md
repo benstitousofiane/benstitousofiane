@@ -25,5 +25,5 @@
 
 <br>
 
-<p align="left">**Développer c'est comme jouer avec la logique qu'offre ce monde contemporain**</p>
-<p align="right">**Benstitou Sofiane**</p>
+<p align="left">Développer c'est comme jouer avec la logique qu'offre ce monde contemporain</p>
+<p align="right"><b>Benstitou Sofiane</b></p>
