@@ -24,7 +24,9 @@
 - Rendre la majorité de mes sites responsives -> ⚠️ non fait 🔴
 
 <br>
+
 - Mes petits mots sur lesquels méditer
+
 <p align="left">Faire des projets est le meuilleur des moyens d'améliorer son expérience depuis une petite base de connaissance.</p>
 <p align="left">Développer c'est comme jouer avec la logique qu'offre ce monde contemporain.</p>
 <p align="right"><b>Benstitou Sofiane</b></p>
