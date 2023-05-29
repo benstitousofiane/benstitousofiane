@@ -13,7 +13,7 @@
 
 <br>
 
-<h2 align="left">Continuité des projet</h2>
+<h2 align="left">Continuité des projets</h2>
 
 <br>
 
@@ -25,8 +25,7 @@
 
 <br>
 
-- Mes petits mots sur lesquels méditer
-
+<h2 align="left">Mes petits mots sur lesquels méditer</h2>
 <p align="left">Faire des projets est le meuilleur des moyens d'améliorer son expérience depuis une petite base de connaissance.</p>
 <p align="left">Développer c'est comme jouer avec la logique qu'offre ce monde contemporain.</p>
 <p align="right"><b>Benstitou Sofiane</b></p>
