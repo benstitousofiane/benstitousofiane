@@ -18,3 +18,7 @@
 - LaCase ✍️: NoteBook pour les maths -> 🚧en cours de déveveloppement🚸
 
 - Rendre la majorité de mes sites responsives -> ⚠️ non fait 🔴
+
+<br>
+<p align="right">Développer c'est comme jouer avec la logique qu'offre ce monde contemporain</p>
+<p align="right">Benstitou Sofiane</p>
