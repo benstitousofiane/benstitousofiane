@@ -17,9 +17,9 @@
 
 <br>
 
-- Portinfo 💻 : mon portilio informatique -> ⚠️ non fait 🔴
+- Portinfo 💻 : mon portilio informatique -> 🚧 en cours de déveveloppement 🚸
 
-- LaCase ✍️: NoteBook pour les maths -> 🚧en cours de déveveloppement🚸
+- LaCase ✍️: NoteBook pour les maths -> ⏸️ reprise du projet pour bientôt ⏯️
 
 - Rendre la majorité de mes sites responsives -> ⚠️ non fait 🔴
 
