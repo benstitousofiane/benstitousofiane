@@ -13,15 +13,11 @@
 
 <br>
 
-<h2 align="left">Continuité des projets</h2>
+<h2 align="left">Mes contributions ce mois de juin ☀️ : </h2>
 
 <br>
 
-- Portinfo 💻 : mon portilio informatique -> 🚧 en cours de déveveloppement 🚸
-
-- LaCase ✍️: NoteBook pour les maths -> ⏸️ reprise du projet pour bientôt ⏯️
-
-- Rendre la majorité de mes sites responsives -> ⚠️ non fait 🔴
+- <a href="https://benstitousofiane.github.io/feuille/"> feuille 🍃 </a> : un simple papier cailloux ciseaux contre ordinateur sur une page web
 
 <br>
 
