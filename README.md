@@ -1,4 +1,4 @@
-<h1 align="center">Mon profil trop super giga bien 🤯🧨💥</h1>
+<h1 align="center">Mon profil super giga trop bien 🤯🧨💥</h1>
 <br>
 
 <h2 align="left">Mon site web :</h2> <a href="https://benstitousofiane.github.io/sbw/"> SBW - Sofiane Benstitou Website</a>
