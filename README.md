@@ -15,13 +15,12 @@
 
 <h2 align="left">Mes contributions ce mois de juin ☀️ : </h2>
 
-<br>
-<h2 align="left">🚧 ECDD (en cours de développement) / non stable 🚸</h2>
-LaCase, 007 et SBW
-<br>
-
 - <a href="https://benstitousofiane.github.io/feuille/"> feuille 🍃 </a> : un simple papier cailloux ciseaux contre ordinateur sur une page web
 
+<br>
+
+<h2 align="left">🚧 ECDD (en cours de développement) / non stable 🚸</h2>
+LaCase, 007 et SBW
 <br>
 
 <h2 align="left">Mes petits mots sur lesquels méditer</h2>
