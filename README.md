@@ -26,6 +26,7 @@ LaCase, 007 et SBW
 <h2 align="left">Mes petits mots sur lesquels méditer</h2>
 <p align="left">Faire des projets est le meuilleur des moyens d'améliorer son expérience depuis une petite base de connaissance.</p>
 <p align="left">Développer c'est comme jouer avec la logique qu'offre ce monde contemporain.</p>
-<p align="right"><b>Benstitou Sofiane</b></p>
 
 ID discord pour me contacter : benstitousofiane
+
+<p align="right"><b>Benstitou Sofiane</b></p>
