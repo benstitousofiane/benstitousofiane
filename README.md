@@ -16,18 +16,20 @@
 <h2 align="left">Mes contributions ce mois de juin ☀️ : </h2>
 
 - <a href="https://benstitousofiane.github.io/feuille/"> feuille 🍃 </a> : un simple papier cailloux ciseaux contre ordinateur sur une page web
-
+- LaCase (Stabilisée)
 <br>
 
 <h2 align="left">🚧 ECDD (en cours de développement) / non stable 🚸</h2>
-LaCase, 007 et SBW
+LaCase (ECDD)
+SBW (ECDD) 
+007 (Non Stable)
 <br>
 
 <h2 align="left">Mes petits mots sur lesquels méditer</h2>
 <p align="left">Faire des projets est le meuilleur des moyens d'améliorer son expérience depuis une petite base de connaissance.</p>
 <p align="left">Développer c'est comme jouer avec la logique qu'offre ce monde contemporain.</p>
 
-<h2 align="left">Me contacter ✉️</h2>
+<h2 align="left">Me contacter 📧</h2>
 
 ID Discord : benstitousofiane
 
