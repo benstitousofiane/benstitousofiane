@@ -22,7 +22,6 @@
 <h2 align="left">🚧 ECDD (en cours de développement) / non stable 🚸</h2>
 LaCase (ECDD)
 SBW (ECDD) 
-007 (Non Stable)
 <br>
 
 <h2 align="left">Mes petits mots sur lesquels méditer</h2>
