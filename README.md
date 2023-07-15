@@ -7,7 +7,7 @@
 
 - Maths 🔢 : Niveau débutant MPSI, mon parcour mathématique en autodidacte : <a href="https://github.com/benstitousofiane/MAraTHon"> MAraTHon</a>
 
-- Langages de programmation 👨‍💻 : Python 🐍, C 🧓, HTML/CSS 🏄‍♂️, JS 😤
+- Langages de programmation 👨‍💻 : Python 🐍, C 🧓, HTML/CSS 🏄‍♂️, JS 😤, (dans une moindre mesure : php 🐘 et SQL 🗃️)
 
 - Système-réseau : de façon professionnel pour bientôt ! Pour le moment système UNIX et réseau locale
 
