@@ -13,10 +13,10 @@
 
 <br>
 
-<h2 align="left">Mes contributions ce mois de juin ☀️ : </h2>
+<h2 align="left">Mes contributions ce mois de juillet ☀️😎 : </h2>
 
-- <a href="https://benstitousofiane.github.io/feuille/"> feuille 🍃 </a> : un simple papier cailloux ciseaux contre ordinateur sur une page web
-- LaCase (Stabilisée)
+- ArchNanas (NS)
+
 <br>
 
 <h2 align="left">🚧 ECDD (en cours de développement) / non stable 🚸</h2>
