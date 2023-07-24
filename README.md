@@ -15,7 +15,8 @@
 
 <h2 align="left">Mes contributions ce mois de juillet ☀️😎 : </h2>
 
-- ArchNanas (NS)
+- boycott : un simple chat / Ma première appli web avec une base de données.
+- ArchNanas : un script d'installation pour ArchLinux
 
 <br>
 
