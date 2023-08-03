@@ -4,7 +4,7 @@
 <h2 align="left">Mon site web :</h2> <a href="https://benstitousofiane.github.io/sbw/"> SBW - Sofiane Benstitou Website</a>
 <br>
 
-Bientôt : liaisaion de mes projet sur mon portfolio !🕺
+Bientôt : liaisaion de mes projet sur portinfo !🕺
 
 <h2 align="left">Mes compétences</h2>
 
