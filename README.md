@@ -3,11 +3,14 @@
 
 <h2 align="left">Mon site web :</h2> <a href="https://benstitousofiane.github.io/sbw/"> SBW - Sofiane Benstitou Website</a>
 <br>
+
+Bientôt : liaisaion de mes projet sur mon portfolio !🕺
+
 <h2 align="left">Mes compétences</h2>
 
 - Maths 🔢 : Niveau débutant MPSI, mon parcour mathématique en autodidacte : <a href="https://github.com/benstitousofiane/MAraTHon"> MAraTHon</a>
 
-- Langages de programmation 👨‍💻 : Python 🐍, C 🧓, HTML/CSS 🏄‍♂️, JS 😤, (dans une moindre mesure : php 🐘 et SQL 🗃️)
+- Langages de programmation 👨‍💻 : Python 🐍, C 🧓, HTML/CSS 🏄‍♂️, JS 😤, (dans une moindre mesure : PHP 🐘 et SQL 🗃️)
 
 - Système-réseau : de façon professionnel pour bientôt ! Pour le moment système UNIX et réseau locale
 
