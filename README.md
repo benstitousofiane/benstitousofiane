@@ -16,19 +16,22 @@ Bientôt : liaisaion de mes projet sur portinfo !🕺
 
 <br>
 
-<h2 align="left">Mes contributions ce mois de juillet ☀️😎 : </h2>
+<h2 align="left">Mes contributions ce mois d'Août ☀️🤯 : </h2>
 
-- boycott : un simple chat / Ma première appli web avec une base de données.
-- ArchNanas : un script d'installation pour ArchLinux
+- Nouvelle version de SBW (accueil)
+- kamille : un environnement pour la bureautique
 
 <br>
 
 <h2 align="left">🚧 ECDD (en cours de développement) / non stable 🚸</h2>
-LaCase (ECDD)
-
 SBW (ECDD) 
 
+kamille (ECDD)
+
+LaCase (ECDD)
+
 ArchNanas (NS)
+
 
 <br>
 
