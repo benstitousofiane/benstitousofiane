@@ -18,8 +18,8 @@ Bientôt : liaisaion de mes projet sur portinfo !🕺
 
 <h2 align="left">Mes contributions ce mois d'Août ☀️🤯 : </h2>
 
-- Nouvelle version de SBW (accueil)
-- kamille : un environnement pour la bureautique
+- Nouvelle version de SBW (accueil en ligne)
+- kamille : un gestionnaire de fen^tre compatible avec mes applis web
 
 <br>
 
