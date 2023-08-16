@@ -26,12 +26,18 @@ Bientôt : liaisaion de mes projet sur portinfo !🕺
 <h2 align="left">🚧 ECDD (en cours de développement) / non stable 🚸</h2>
 SBW (ECDD) 
 
-kamille (ECDD)
 
-LaCase (ECDD)
+LaCase (ECDD) -> Passe en Stable dès la soirée du 16/08/2022 (version bac à sable)
+
+SBW (ECDD) -> [Développement de portinfo en cours...]
 
 ArchNanas (NS)
 
+
+<br>
+
+<h2 align="left">😤👌 S (Stable) ✅</h2>
+kamille (S) (version bac à sable)
 
 <br>
 
