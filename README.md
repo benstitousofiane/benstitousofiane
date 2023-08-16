@@ -50,6 +50,6 @@ kamille (S) (version bac à sable)
 ID Discord : benstitousofiane
 
 <h2 align="left">Droit d'auteur :</h2>
-Il n'y en a pas 🤯 : Libre de droit même pour des raisons commerciales sans mention, même si celle-ci est la bienvenue (◠‿◠✿)
+Il n'y en a pas 🤯 : Libre de droit même pour des raisons commerciales sans mention, même si celle-ci est la bienvenue (◠‿◠✿) <br>
 
 <p align="right"><b>Benstitou Sofiane</b></p>
