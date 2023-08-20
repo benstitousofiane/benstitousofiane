@@ -27,7 +27,7 @@ Bientôt : liaisaion de mes projet sur portinfo !🕺
 SBW (ECDD) 
 
 
-LaCase (ECDD) -> Passe en Stable dès la soirée du 16/08/2022 (version bac à sable)
+LaCase (ECDD) -> Aura une nouvelle refonte avec SBW ! 😝
 
 SBW (ECDD) -> [Développement de portinfo en cours...]
 
