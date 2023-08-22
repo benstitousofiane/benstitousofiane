@@ -1,7 +1,7 @@
 <h1 align="center">Mon profil super giga trop bien 🤯🧨💥</h1>
 <br>
 
-<h2 align="left">Mon site web :</h2> <a href="https://benstitousofiane.github.io/sbw/"> SBW - Sofiane Benstitou Website</a>
+<h2 align="left">Mon site web :</h2> <a href="https://benstitousofiane.github.io/sbw/"> SBW - Sofiane Benstitou Website</a> 🚧Maintenance jusqu'au à la fin du développement de récréation⚠️
 <br>
 
 Bientôt : liaisaion de mes projets sur portinfo !🕺
@@ -36,7 +36,7 @@ ArchNanas (NS)
 <br>
 
 <h2 align="left">😤👌 S (Stable) ✅</h2>
-kamille (S) (version bac à sable)
+kamille (S) (version bac à sable) -> 22 aôut 2023 : kamille s'appelle dorénavant 'sable'
 
 <br>
 
