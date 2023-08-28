@@ -4,7 +4,7 @@
 <h2 align="left">Mon site web :</h2> <a href="https://benstitousofiane.github.io/sbw/"> SBW - Sofiane Benstitou Website</a> 🚧Maintenance jusqu'à la fin du développement de récréation⚠️
 <br>
 
-Bientôt : liaisaion de mes projets sur portinfo !🕺
+Bientôt : liaisaion de mes projets sur portinfo !🕺, pour les projets mathématiques : LaCase et lune auront une refonte totale⚠️
 
 <h2 align="left">Mes compétences</h2>
 
