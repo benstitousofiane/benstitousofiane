@@ -1,7 +1,7 @@
 <h1 align="center">Mon profil super giga trop bien 🤯🧨💥</h1>
 <br>
 
-<h2 align="left">Mon site web :</h2> <a href="https://benstitousofiane.github.io/sbw/"> SBW - Sofiane Benstitou Website</a> 🚧Maintenance jusqu'à la fin du développement de récréation⚠️
+<h2 align="left">Mon site web :</h2> <a href="http://sbw.kesug.com/"> SBW - Sofiane Benstitou Website</a>
 
 <h2 align="left">Mes compétences</h2>
 
