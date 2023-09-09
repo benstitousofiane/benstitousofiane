@@ -13,22 +13,13 @@
 
 <br>
 
-<h2 align="left">Mes contributions ce mois d'Août ☀️🤯 : </h2>
+<h2 align="left">Mes contributions ce mois de Septembre 🍂🎒 : </h2>
 
-- Nouvelle version de SBW (accueil en ligne)
-- kamille : un gestionnaire de fen^tre compatible avec mes applis web
+- Publicaiton de SBW et d'articles sur récréation
 
 <br>
 
 <h2 align="left">🚧 ECDD (en cours de développement) / non stable 🚸</h2>
-SBW (ECDD) 
-
-
-LaCase (ECDD) -> Aura une nouvelle refonte avec SBW ! 😝
-
-SBW (ECDD) -> [Développement de portinfo en cours...]
-
-ArchNanas (NS)
 
 <br>
 
