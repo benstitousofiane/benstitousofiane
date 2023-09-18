@@ -1,7 +1,7 @@
 <h1 align="center">Mon profil super giga trop bien 🤯🧨💥</h1>
 <br>
 
-➡️Changement d'idée pour la librairie lune🌙, celui-ci deviendra un langage de programmation ! 🙈
+➡️Changement d'idée pour la bibliothèque lune🌙, celui-ci deviendra un langage de programmation ! 🙈
 
 <h2 align="left">Mon site web :</h2> <a href="http://sbw.kesug.com/"> SBW - Sofiane Benstitou Website</a>
 
