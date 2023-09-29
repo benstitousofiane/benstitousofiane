@@ -18,15 +18,15 @@
 <h2 align="left">Mes contributions ce mois de Septembre 🍂🎒 : </h2>
 
 - Publicaiton de SBW et d'articles sur récréation
-
 <br>
 
 <h2 align="left">🚧 ECDD (en cours de développement) / non stable 🚸</h2>
-
+- lune🌙
+- descartes🃏
 <br>
 
 <h2 align="left">😤👌 S (Stable) ✅</h2>
-kamille (S) (version bac à sable) -> 22 aôut 2023 : kamille s'appelle dorénavant 'sable'
+...
 
 <br>
 
