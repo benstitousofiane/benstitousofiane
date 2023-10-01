@@ -15,8 +15,8 @@
 
 <br>
 
-<h2 align="left">Mes contributions ce mois de Septembre 🍂🎒 : </h2>
-
+<h2 align="left">Mes contributions ce mois d'octobre 🍂🎃 : </h2>
+- lune (préparation du langage pour le framework en cours...)
 - Publicaiton de SBW et d'articles sur récréation
 <br>
 
@@ -26,8 +26,7 @@
 <br>
 
 <h2 align="left">😤👌 S (Stable) ✅</h2>
-...
-
+- sbw🪑
 <br>
 
 <h2 align="left">Mes petits mots sur lesquels méditer</h2>
