@@ -25,6 +25,8 @@
 - lune🌙
 
 - descartes🃏
+
+- lacase V2
 <br>
 
 <h2 align="left">😤👌 S (Stable) ✅</h2>
