@@ -14,7 +14,10 @@
 <br>
 
 <h2 align="left">Mes contributions ce mois d'octobre 🍂🎃 : </h2>
-- lune (préparation du langage pour le framework en cours...)
+- lune (du système de graphismes)
+
+- LaCase V2 (en cours de développement)
+
 - Publicaiton de SBW et d'articles sur récréation
 <br>
 
