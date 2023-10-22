@@ -19,7 +19,6 @@
 
 - LaCase V2 (en cours de développement)
 
-- Publicaiton de SBW et d'articles sur récréation
 <br>
 
 <h2 align="left">🚧 ECDD (en cours de développement) / non stable 🚸</h2>
