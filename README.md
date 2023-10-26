@@ -15,9 +15,10 @@
 
 <h2 align="left">Mes contributions ce mois d'octobre 🍂🎃 : </h2>
 
+- LaCase V2 (Sort cette semaine où vous lisez cette phrase 🙈)
+
 - lune (du système de graphismes)
 
-- LaCase V2 (en cours de développement)
 
 <br>
 
