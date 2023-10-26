@@ -30,7 +30,7 @@
 - lacase V2
 <br>
 
-<h2 align="left">😤👌 S (Stable) ✅</h2>
+<h2 align="left">😤👌✅ S (Stable)</h2>
 - sbw🪑
 <br>
 
