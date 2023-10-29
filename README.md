@@ -15,7 +15,7 @@
 
 <h2 align="left">Mes contributions ce mois d'octobre 🍂🎃 : </h2>
 
-- LaCase V2 (Sort cette semaine où vous lisez cette phrase 🙈)
+- LaCase V2 (Publier !)
 
 - lune (du système de graphismes)
 
@@ -27,11 +27,12 @@
 - lune🌙
 
 - descartes🃏
-
-- lacase V2
 <br>
 
 <h2 align="left">😤👌✅ S (Stable)</h2>
+
+-LaCase
+
 - sbw🪑
 <br>
 
