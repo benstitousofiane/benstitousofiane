@@ -13,12 +13,9 @@
 
 <br>
 
-<h2 align="left">Mes contributions ce mois d'octobre 🍂🎃 : </h2>
+<h2 align="left">Mes contributions ce mois de novembre 🌬️🍃🥶  : </h2>
 
-- LaCase V2 (Publier !)
-
-- lune (du système de graphismes)
-
+- Pour le moment rien lol
 
 <br>
 
@@ -26,7 +23,7 @@
 
 - lune🌙
 
-- descartes🃏
+- descartes🃏 (en cours de développement)
 <br>
 
 <h2 align="left">😤👌✅ S (Stable)</h2>
