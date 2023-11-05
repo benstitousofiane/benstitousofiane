@@ -13,7 +13,7 @@
 
 <br>
 
-<h2 align="left">Mes contributions ce mois de novembre 🌬️🍃🥶  : </h2>
+<h2 align="left">Mes contributions ce mois de novembre 🌬️🍃⛸️  : </h2>
 
 - Pour le moment rien lol
 
@@ -28,7 +28,7 @@
 
 <h2 align="left">😤👌✅ S (Stable)</h2>
 
--LaCase
+- LaCase📓
 
 - sbw🪑
 <br>
