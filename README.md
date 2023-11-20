@@ -15,7 +15,7 @@
 
 <h2 align="left">Mes contributions ce mois de novembre 🌬️🍃⛸️  : </h2>
 
-- ArchNanas🐧 (instable)
+- ArchNanas🐧 (moyennement stable)
 
 <br>
 
