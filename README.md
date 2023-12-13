@@ -1,13 +1,23 @@
 <h1 align="center">Mon profil super giga trop bien 🤯🧨💥</h1>
+
 <br>
+
+⚠️Beaucoup de changement pour les jours qui suivent⚠️
+- Arrêt du développement de site avec PHP 🐘, maintenant en JS 🧒
+- Refonte de mon portfilio et de mon GitHub
+- Nouveau site avec un nouveau nom "BSA" (Benstitou Sofiane APPs), donc fermeture de SBW
+- Système de gestion de contenus complet "postfian" (post Sofiane (Benstitou Website))
+- Presque la totalité de mes projets actuelle seront dans le repo "ancien",
+  ils reviendrons biensûr mais avec une dépendance vis-à-vis de BSA.
+
 
 <h2 align="left">Mon site web :</h2> <a href="http://sbw.kesug.com/"> SBW - Sofiane Benstitou Website</a>
 
 <h2 align="left">Mes compétences</h2>
 
-- Maths 🔢 : Niveau débutant MPSI, mon parcour mathématique en autodidacte : <a href="https://github.com/benstitousofiane/MAraTHon"> MAraTHon</a>
+- Maths 🔢 : Niveau débutant MPSI, mon parcour mathématique en autodidacte : <a href="https://github.com/benstitousofiane/MAraTHon">MAraTHon</a>
 
-- Langages de programmation 👨‍💻 : Python 🐍, C 🧓, HTML/CSS 🏄‍♂️, JS 😤, (dans une moindre mesure : PHP 🐘 et SQL 🗃️)
+- Langages de programmation 👨‍💻 : Python 🐍, C 🧓, HTML/CSS 🏄‍♂️, JS 😤, (dans une moindre mesure : SQL🗃️ et Shell🐚)
 
 - Système-réseau : de façon professionnel pour bientôt ! Pour le moment système UNIX et réseau locale
 
