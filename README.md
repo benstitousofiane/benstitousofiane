@@ -11,6 +11,8 @@
   ils reviendrons biensûr mais avec une dépendance vis-à-vis de BSA.
 - Par la suite un nouveau MAraTHon fera son entrée "MAraTHon Zwei"
 
+21/01/2024 : d'ici à fin février j'aurai appris le développement d'app web avec ExpressJS, l'interface de postfian sera probablement modifier, son fonctionnement non.
+
 <h2 align="left">Mon site web :</h2> <a href="http://sbw.kesug.com/"> SBW - Sofiane Benstitou Website</a>
 
 <h2 align="left">Mes compétences</h2>
