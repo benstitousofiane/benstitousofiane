@@ -21,7 +21,7 @@
 
 - Langages de programmation 👨‍💻 : Python 🐍, C 🧓, HTML/CSS 🏄‍♂️, JS 😤, (dans une moindre mesure : SQL🗃️ et Shell🐚)
 
-- Système-réseau : de façon professionnel pour bientôt ! Pour le moment système UNIX et réseau locale
+- Système-réseau : de façon professionnel pour bientôt ! Pour le moment systèmes Linux
 
 <br>
 
