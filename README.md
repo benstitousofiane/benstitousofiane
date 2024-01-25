@@ -14,7 +14,8 @@
 21/01/2024 : d'ici à fin février j'aurai appris le développement d'app web avec ExpressJS, l'interface de postfian sera probablement modifier, son fonctionnement non.
 
 25/01/2024 : avec le développement de LaCase V3 un jeu grand public sera développer au moins pour une version web, il se nommera "casier", une idée que j'ai eu il y a deux ans en sortant de piscine,
-j'ai essayer de le faire il y a deux ans mais j'ai soudainement arrêter pour commencer se GitHub quelque mois plus tard : https://github.com/carrelebo/caiser
+j'ai essayer de le faire il y a deux ans mais j'ai soudainement arrêter pour commencer se GitHub quelque mois plus tard : https://github.com/carrelebo/caiser; pour ce qui est de l'avancement
+des travaux j'apprends le développement d'API Rest avec Express.
 
 <h2 align="left">Mon site web :</h2> <a href="http://sbw.kesug.com/"> SBW - Sofiane Benstitou Website</a>
 
