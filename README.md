@@ -17,6 +17,9 @@
 j'ai essayer de le faire il y a deux ans mais j'ai soudainement arrêter pour commencer se GitHub quelque mois plus tard : https://github.com/carrelebo/caiser; pour ce qui est de l'avancement
 des travaux j'apprends le développement d'API Rest avec Express.
 
+11/02/2023 : Pour le moment mes engagements sont respecté, il me reste à faire de la pratique avec d'autre environnements et express lui-même avant de recommencé
+le développement de Postfian.
+
 <h2 align="left">Mon site web :</h2> <a href="http://sbw.kesug.com/"> SBW - Sofiane Benstitou Website</a>
 
 <h2 align="left">Mes compétences</h2>
