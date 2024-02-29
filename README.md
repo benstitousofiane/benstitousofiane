@@ -22,6 +22,8 @@ le développement de Postfian.
 
 14/02/2024 : Le développement de BSA commence aujourd'hui ! 🤠
 
+29/02/2023 : Je vais tenté de terminé aujourd'hui la base de BSA pour pouvoir commencé le développement de LaCase V3
+
 <h2 align="left">Mon site web :</h2> <a href="http://sbw.kesug.com/"> SBW - Sofiane Benstitou Website</a>
 
 <h2 align="left">Mes compétences</h2>
