@@ -26,6 +26,9 @@ le développement de Postfian.
 
 04/04/2024 : j'essaie de faire des animations sur des apps pour faire des applications très fluide visuellement
 
+21/04/2024 : Le projet d'application prend beaucoup de retard, je prend maintenant l'initiatif de mettre sable 🏖 au centre de SBW, l'interface sera refaite,
+j'ai une idée d'interface qui sera franchement pas mal 😝
+
 <h2 align="left">Mon site web :</h2> <a href="http://sbw.kesug.com/"> SBW - Sofiane Benstitou Website</a>
 
 <h2 align="left">Mes compétences</h2>
