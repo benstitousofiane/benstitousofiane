@@ -29,6 +29,8 @@ le développement de Postfian.
 21/04/2024 : Le projet d'application prend beaucoup de retard, je prend maintenant l'initiatif de mettre sable 🏖 au centre de SBW, l'interface sera refaite,
 j'ai une idée d'interface qui sera franchement pas mal 😝
 
+20/05/2024 : J'ai commencer à apprendre comment manipuler à la main des API sur d'autres sites, j'ai commencer à faire une interface Coran qui évolura : https://github.com/benstitousofiane/najm/
+
 <h2 align="left">Mon site web :</h2> <a href="http://sbw.kesug.com/"> SBW - Sofiane Benstitou Website</a>
 
 <h2 align="left">Mes compétences</h2>
