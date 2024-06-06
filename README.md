@@ -53,9 +53,14 @@ j'ai une idée d'interface qui sera franchement pas mal 😝
 
 <h2 align="left">🚧 ECDD (en cours de développement) / non stable 🚸</h2>
 
+- bsa🪑
+
+- najm☆
+
 - lune🌙
 
-- descartes🃏 (en cours de développement)
+- descartes🃏
+
 <br>
 
 <h2 align="left">😤👌✅ S (Stable)</h2>
