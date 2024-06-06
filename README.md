@@ -32,6 +32,7 @@ j'ai une idée d'interface qui sera franchement pas mal 😝
 20/05/2024 : J'ai commencer à apprendre comment manipuler à la main des API sur d'autres sites, j'ai commencer à faire une interface Coran qui évolura : https://github.com/benstitousofiane/najm/
 
 06/06/2024 : Je prépère les pages web pour les projets qui continueront d'être développer, le site arrivera prochainement avec un script de construction.
+Un ménage sera fait quand mon site web sera publié.
 
 <h2 align="left">Mon site web :</h2> <a href="http://sbw.kesug.com/"> SBW - Sofiane Benstitou Website</a>
 
