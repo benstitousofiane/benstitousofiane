@@ -34,6 +34,8 @@ j'ai une idée d'interface qui sera franchement pas mal 😝
 06/06/2024 : Je prépère les pages web pour les projets qui continueront d'être développer, le site arrivera prochainement avec un script de construction.
 Un ménage sera fait quand mon site web sera publié.
 
+17/07/2024 : J'ai décider de commencer d'apprendre au moment où j'écris, de nouvelles technologies web pour pouvoir faire des applications de manière beaucoup plus durable, au menu 🥘 il y aura  TypeScript, React et Tailwind CSS, j'ai été convaincu de l'utilité de ces langage après une échange vocale en ligne, ça sera j'espère un tourment majeur, une version de LaCase V3 sera publier, il manque l'ajout graphique d'élément les paramètres.
+
 <h2 align="left">Mon site web :</h2> <a href="http://sbw.kesug.com/"> SBW - Sofiane Benstitou Website</a>
 
 <h2 align="left">Mes compétences</h2>
