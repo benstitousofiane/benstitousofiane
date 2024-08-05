@@ -44,17 +44,15 @@ Un ménage sera fait quand mon site web sera publié.
 
 - Maths 🔢 : Niveau débutant MPSI, mon parcour mathématique en autodidacte : <a href="https://github.com/benstitousofiane/MAraTHon">MAraTHon</a>
 
-- Langages de programmation 👨‍💻 : Python 🐍, C 🧓, HTML/CSS 🏄‍♂️, JS 😤, (dans une moindre mesure : SQL🗃️ et Shell🐚)
+- Langages de programmation 👨‍💻 : Python 🐍, C 🧓, HTML/CSS 🏄‍♂️, JS 😤, TS 💶
 
 - Système-réseau : de façon professionnel pour bientôt ! Pour le moment systèmes Linux
 
 <br>
 
-<h2 align="left">Mes contributions ce mois de novembre 🌬️🍃⛸️  : </h2>
+<h2 align="left">Mes contributions ce mois d'août 2024 🌞⛱️🌇 : </h2>
 
-- ArchNanas🐧 (moyennement stable)
-
-<br>
+Rien pour le moment.
 
 <h2 align="left">🚧 ECDD (en cours de développement) / non stable 🚸</h2>
 
