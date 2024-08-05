@@ -36,6 +36,8 @@ Un ménage sera fait quand mon site web sera publié.
 
 17/07/2024 : J'ai décider de commencer d'apprendre au moment où j'écris, de nouvelles technologies web pour pouvoir faire des applications de manière beaucoup plus durable, au menu 🥘 il y aura  TypeScript, React et Tailwind CSS, j'ai été convaincu de l'utilité de ces langage après une échange vocale en ligne, ça sera j'espère un tourment majeur, une version de LaCase V3 sera publier, il manque l'ajout graphique d'élément les paramètres.
 
+05/08/2024 : J'ai fini d'apprendre ce je voulais, je vais commencer par faire le ménage sur mes repo et faire un compteur avec react, je referai par la suite tout LaCase avec react.
+
 <h2 align="left">Mon site web :</h2> <a href="http://sbw.kesug.com/"> SBW - Sofiane Benstitou Website</a>
 
 <h2 align="left">Mes compétences</h2>
