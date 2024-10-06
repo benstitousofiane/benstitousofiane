@@ -2,7 +2,7 @@
 
 <br>
 
-🚧 Mon site web n'est pas encore fait ! J'attend de terminer quelques applications pour le faire 🚸⚠️
+🚧 Mon site web n'est pas encore mis à jour ! J'attend de terminer quelques applications pour le faire 🚸⚠️
 
 
 <h2 align="left">Mon site web :</h2> <a href="http://sbw.kesug.com/"> SBW - Sofiane Benstitou Website</a>
