@@ -24,7 +24,7 @@ Rien pour le moment.
 <h2 align="left">🚧 ECDD (en cours de développement) / non stable 🚸</h2>
 
 
-- najm☆
+- najm V2 "ن"
 
 
 <br>
