@@ -17,7 +17,7 @@
 
 <br>
 
-<h2 align="left">Mes contributions ce mois d'août 2024 🌞⛱️🌇 : </h2>
+<h2 align="left">Mes contributions ce mois d'octobre 2024 🍁🍂 : </h2>
 
 Rien pour le moment.
 
