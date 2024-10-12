@@ -23,13 +23,9 @@ Rien pour le moment.
 
 <h2 align="left">🚧 ECDD (en cours de développement) / non stable 🚸</h2>
 
-- bsa🪑
 
 - najm☆
 
-- lune🌙
-
-- descartes🃏
 
 <br>
 
