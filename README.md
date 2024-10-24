@@ -33,7 +33,6 @@ Rien pour le moment.
 
 - LaCase📓
 
-- sbw🪑
 <br>
 
 <h2 align="left">Mes petits mots sur lesquels méditer</h2>
