@@ -13,6 +13,9 @@
 
 - Langages de programmation 👨‍💻 : Python 🐍, C 🧓, HTML/CSS 🏄‍♂️, JS 😤, TS 💶
 
+- Technologies web que j'utilise : Node.js, TypeScript, NextJS, ReactJS, React Native, Expo, TailwindCSS, MySQL, KaTeX
+
+
 - Système-réseau : de façon professionnel pour bientôt ! Pour le moment systèmes Linux
 
 <br>
