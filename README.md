@@ -4,6 +4,12 @@
 
 🚧 Mon site web n'est pas encore mis à jour ! J'attend de terminer quelques applications pour le faire 🚸⚠️
 
+10/12/2024 : najm ne sera plus seulement une interface Coran seule, tout un écosystème pour l'enseignement y sera développer incha Allah.
+Composants au programme : 
+- Najm : Interface principal Coran
+- Iqra : Interface pour extraire des extraits du Coran avec un formatage personalisé, peut être utiliser pour enseigner ou faire des vidéos, a besoin de Najm
+- Kalimat : Interface pour apprendre à comprendre l'arabe du Coran en s'appuyant sur des travaux existant avec un format que je n'ai pas trouvé adapté pour un très bonne apprentissage, A besoin de Iqra, ce projet sera très long, mais en vaut la peine
+- Tadhakkar : Interface mémorisation du Coran (sera fait dans assez longtemps)
 
 <h2 align="left">Mon site web :</h2> <a href="#"> (Bientôt...)</a>
 
