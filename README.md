@@ -17,9 +17,9 @@ Composants au programme :
 
 - Maths 🔢 : Niveau débutant MPSI, mon parcour mathématique en autodidacte : <a href="https://github.com/benstitousofiane/MAraTHon">MAraTHon</a>
 
-- Langages de programmation 👨‍💻 : Python 🐍, C 🧓, HTML/CSS 🏄‍♂️, JS 😤, TS 💶
+- Langages de programmation 👨‍💻 : Python 🐍, C 🧓, HTML/CSS 🏄‍♂️, JS 😤, TS 💶, SQL 💾
 
-- Technologies web que j'utilise : Node.js, TypeScript, NextJS, ReactJS, React Native, Expo, TailwindCSS, MySQL, KaTeX
+- Technologies web que j'utilise : Node.js, TypeScript, NextJS, ReactJS, React Native, Expo, TailwindCSS, SQLite, KaTeX
 
 
 - Système-réseau : de façon professionnel pour bientôt ! Pour le moment systèmes Linux
