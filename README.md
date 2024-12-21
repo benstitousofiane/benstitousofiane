@@ -11,6 +11,10 @@ Composants au programme :
 - Kalimat : Interface pour apprendre à comprendre l'arabe du Coran en s'appuyant sur des travaux existant avec un format que je n'ai pas trouvé adapté pour un très bonne apprentissage, A besoin de Iqra, ce projet sera très long, mais en vaut la peine
 - Tadhakkar : Interface mémorisation du Coran (sera fait dans assez longtemps)
 
+20/12/2024 : J'ai découvert NixOS en novembre, j'ai commencer à apprendre à l'utiliser, c'est merveille ! C'est très stable et supporte bien, comme Arch, le driver pour la carte son du mac sur lequelle le code. Il y a quelque temps je pouvais critiqué, Wayland et Pipewire, mais sont devenu vraiment stable 🤠
+C'est pour ça que je commencerai à développer mon site dessus, il y aura mes dotfiles, **ArchNanas sera discontinue**
+Ma priorité pour le moment c'est de faire ma configuration NixOS et de développer Najm.
+
 <h2 align="left">Mon site web :</h2> <a href="#"> (Bientôt...)</a>
 
 <h2 align="left">Mes compétences</h2>
