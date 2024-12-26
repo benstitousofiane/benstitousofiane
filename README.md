@@ -15,7 +15,7 @@ Composants au programme :
 C'est pour ça que je commencerai à développer mon site dessus, il y aura mes dotfiles, **ArchNanas sera discontinue**
 Ma priorité pour le moment c'est de faire ma configuration NixOS et de développer Najm.
 
-26/12/2024 : J'ai changer le nom de najm par nadjm pour des raisons pratique et je l'ai publier en version web : https://najm.netlify.app/ <a href="https://najm.netlify.app/">Nadjm web<a>. 
+26/12/2024 : J'ai changer le nom de najm par nadjm pour des raisons pratique et je l'ai publier en version web : https://najm.netlify.app/
 
 <h2 align="left">Mon site web :</h2> <a href="#"> (Bientôt...)</a>
 
