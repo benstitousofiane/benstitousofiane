@@ -32,14 +32,14 @@ Ma priorité pour le moment c'est de faire ma configuration NixOS et de dévelop
 
 <br>
 
-<h2 align="left">Mes contributions ce mois d'octobre 2024 🍁🍂 : </h2>
+<h2 align="left">Mes contributions ce mois de février 2025 🌬️🍃 : </h2>
 
 Rien pour le moment.
 
 <h2 align="left">🚧 ECDD (en cours de développement) / non stable 🚸</h2>
 
 
-- najm V2 "ن"
+- nadjm V2 "ن"
 
 
 <br>
