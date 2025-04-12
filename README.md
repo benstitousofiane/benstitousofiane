@@ -23,7 +23,7 @@ Ma priorité pour le moment c'est de faire ma configuration NixOS et de dévelop
 
 - Maths 🔢 : Niveau débutant MPSI, mon parcour mathématique en autodidacte : <a href="https://github.com/benstitousofiane/MAraTHon">MAraTHon</a>
 
-- Langages de programmation 👨‍💻 : Python 🐍, C 🧓, HTML/CSS 🏄‍♂️, JS 😤, TS 💶, SQL 💾
+- Langages de programmation 👨‍💻 : Python 🐍, HTML/CSS 🏄‍♂️, JS 😤, TS 💶, SQL 💾
 
 - Technologies web que j'utilise : Node.js, TypeScript, NextJS, ReactJS, React Native, Expo, TailwindCSS, SQLite, KaTeX
 
@@ -32,14 +32,14 @@ Ma priorité pour le moment c'est de faire ma configuration NixOS et de dévelop
 
 <br>
 
-<h2 align="left">Mes contributions ce mois de février 2025 🌬️🍃 : </h2>
+<h2 align="left">Mes contributions ce mois d'avril 2025 ☀️🌺 : </h2>
 
-Rien pour le moment.
+- Cours d'arabeNoyau
 
 <h2 align="left">🚧 ECDD (en cours de développement) / non stable 🚸</h2>
 
 
-- nadjm V2 "ن"
+- yahtaz
 
 
 <br>
@@ -47,6 +47,7 @@ Rien pour le moment.
 <h2 align="left">😤👌✅ S (Stable)</h2>
 
 - LaCase📓
+- nadjm V2 "ن"
 
 <br>
 
