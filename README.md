@@ -34,7 +34,7 @@ Ma priorité pour le moment c'est de faire ma configuration NixOS et de dévelop
 
 <h2 align="left">Mes contributions ce mois d'avril 2025 ☀️🌺 : </h2>
 
-- Cours d'arabeNoyau
+- Cours d'arabe : Noyau
 
 <h2 align="left">🚧 ECDD (en cours de développement) / non stable 🚸</h2>
 
