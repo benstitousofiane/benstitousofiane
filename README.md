@@ -11,7 +11,7 @@
 
 - Maths 🔢 : Niveau débutant MPSI, mon parcour mathématique en autodidacte : <a href="https://github.com/benstitousofiane/MAraTHon">MAraTHon</a>
 
-- Langages de programmation 👨‍💻 : Python 🐍, HTML/CSS 🏄‍♂️, JS 😤, TS 💶, SQL 💾
+- Langages de programmation 👨‍💻 : Python 🐍,  C 👴, HTML/CSS 🏄‍♂️, JS 😤, TS 💶, SQL 💾
 
 - Technologies web que j'utilise : Node.js, TypeScript, NextJS, ReactJS, React Native, Expo, TailwindCSS, SQLite, KaTeX
 
