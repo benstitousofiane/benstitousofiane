@@ -5,7 +5,7 @@
 🚧 Mon site web n'est pas encore mis à jour ! J'attend de terminer quelques applications pour le faire 🚸⚠️
 
 
-<h2 align="left">Mon site web :</h2> <a href="https://benstitousofiane.fr/"></a>
+<h2 align="left">Mon site web :</h2> <a href="https://benstitousofiane.fr/">Mon site web</a>
 
 <h2 align="left">Mes compétences</h2>
 
@@ -20,10 +20,10 @@
 
 <br>
 
-<h2 align="left">Mes contributions ce mois de Novembre 2025 🌬️🍃🍂 : </h2>
+<h2 align="left">Mes contributions ce mois de Juin 2026 🤠☀️ : </h2>
 
-- PocketPocket (gestion du budget, en cours de développement)
-- Programme informatique pour faire facilement des vidéos avec du texte coranique
+- Publication de mon site web
+- Fondation du Nouveau tutorat de stanté
 
 <h2 align="left">🚧 ECDD (en cours de développement) / non stable 🚸</h2>
 
